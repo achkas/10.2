@@ -1,0 +1,16 @@
+# ninja log v5
+62	2044	7100724512744941	CMakeFiles/run_shapes63.dir/quadrilateral.cpp.obj	4ad4c01744d638de
+27	2419	7100724516644339	CMakeFiles/run_shapes63.dir/header_Triangle.cpp.obj	db87809e6ab11541
+14	2065	7100724513064887	CMakeFiles/run_shapes63.dir/Triangle.cpp.obj	415807f51bd8668d
+2047	2879	7100724521273626	CMakeFiles/run_shapes63.dir/header_quadrilateral.cpp.obj	e5eb5c64d2245b8f
+52	2184	7100724514244708	CMakeFiles/run_shapes63.dir/header_heirs_triangle.cpp.obj	bc73dd8236c2e454
+7	289	7100736661788126	build.ninja	8e730bf52c9ba5d4
+43	1258	7100728349228646	CMakeFiles/run_shapes63.dir/Source1.cpp.obj	235573510bdce7b8
+11	1859	7100732118916932	CMakeFiles/run_shapes63.dir/heirs_triangle.cpp.obj	f00a656e2abb6f43
+17	1961	7100732119936768	CMakeFiles/run_shapes63.dir/heirs_parallelogram.cpp.obj	d002da3d763ba326
+59	2061	7100732120946622	CMakeFiles/run_shapes63.dir/heirs_square.cpp.obj	d70c5b1adbce42a9
+50	2137	7100732121696505	CMakeFiles/run_shapes63.dir/heirs_quadrangle.cpp.obj	8176319cb94feae9
+1861	2616	7100732126532746	CMakeFiles/run_shapes63.dir/Source2.cpp.obj	39d1a7cce6d15849
+4	1335	7100735987184834	CMakeFiles/run_shapes63.dir/Body.cpp.obj	cae204339c9177b0
+4	703	7100732590124192	CMakeFiles/run_shapes63.dir/header_heirs_parallelogram.cpp.obj	eec5fa414dbc515d
+1336	1966	7100735991453960	run_shapes63.exe	43f3921d70edd1af
